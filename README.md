@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-![Here's a walkthrough of implemented features:](assets/Walkthrough/Walkthrough.gif)
+![Here's a walkthrough of implemented features:](https://www.loom.com/share/0a783a01393d4e238f3cc3bac5a90dac?sid=3cdc84db-2664-4a42-8247-dbb84dd78008)
 
 
 ## Notes
