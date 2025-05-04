@@ -180,10 +180,9 @@ firstGameContainer.appendChild(firstGameElement);
 // do the same for the runner up item
 secondGameContainer.appendChild(secondGameElement); 
 
-// Obtén el botón
+// To top btn
 const scrollToTopBtn = document.getElementById("scrollToTopBtn");
 
-// Mostrar el botón cuando el usuario esté cerca del final de la página
 window.onscroll = function() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
         scrollToTopBtn.style.display = "block";
@@ -192,7 +191,6 @@ window.onscroll = function() {
     }
 };
 
-// Función para hacer scroll hacia arriba cuando el usuario haga clic en el botón
 scrollToTopBtn.addEventListener("click", () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 });
